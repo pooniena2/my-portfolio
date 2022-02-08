@@ -17,7 +17,7 @@ function Card() {
         </div>
         <div className="text-center mt-5">
           <p className="text-xs text-gray-900 sm:text-2xl">Anh Tuan Pham</p>
-          <p className="text-xs text-gray-600 sm:text-base pt-2 pb-4 px-5 w-margin inline-block border-b-2">
+          <div className="text-xs text-gray-600 sm:text-base pt-2 pb-4 px-5 w-margin inline-block border-b-2">
             <Typewriter
               options={{
                 autoStart: true,
@@ -25,16 +25,14 @@ function Card() {
               }}
               onInit={(typewriter) => {
                 typewriter
-
                   .typeString("CS @ UofC '23")
-
                   .pauseFor(1000)
                   .deleteAll()
                   .typeString("Software Developer")
                   .start();
               }}
             />
-          </p>
+          </div>
           <Icon />
         </div>
       </div>
