@@ -1,5 +1,5 @@
 import profile from "../image/profile.jpg";
-import Icon from "../components/Icon";
+import Icon from "./Icon";
 import Typewriter from "typewriter-effect";
 import  React  from "react";
 

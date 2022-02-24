@@ -1,11 +1,11 @@
 import "./App.css";
 import { React, useEffect } from "react";
-import Card from "./views/Card";
-import About from "./views/About";
-import Skill from "./views/Skill";
-import Footer from "./views/Footer";
-import Experience from "./views/Experience";
-import Projects from "./views/Projects";
+import Card from "./components/Card";
+import About from "./components/About";
+import Skill from "./components/Skill";
+import Footer from "./components/Footer";
+import Experience from "./components/Experience";
+import Projects from "./components/Projects";
 import "aos/dist/aos.css";
 import Aos from "aos";
 

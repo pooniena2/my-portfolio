@@ -1,5 +1,5 @@
 import React from "react";
-import ScrollInto from "../components/ScrollIntoView";
+import ScrollInto from "./ScrollIntoView";
 import "../styles/About.css";
 import { FaChevronDown } from "react-icons/fa";
 
