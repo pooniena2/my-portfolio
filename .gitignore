@@ -24,5 +24,5 @@ yarn-error.log*
 
 /public
 /src/data
-reportWebVitals.js
+.reportWebVitals.js
 
