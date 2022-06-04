@@ -1,6 +1,6 @@
 # Portfolio 
 
-An personal portfolio used as my digital resume.
+A personal portfolio used as my digital resume.
 
 ## Tech Stack
 - Javascript
